@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+hr{
+    width: 315px;
+}
+.bloco1{
+    display: flex;
+    text-align: right;
+    padding-top: 60px;
+}
+header img{
+    padding-top: 15px;
+}
+header h3{
+    padding-left: 10px;
+}
+header h4{
+    padding-left: 40px;
+}
+article p{
+    padding-left: 20px;
+    text-align: justify;
+}
+article div{
+    display: flex;
+}
+article h4{
+    margin-bottom: 0px;
+}
+article img{
+    width: 80px; height: 80px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+article h4 span{
+    color: red;
+}
+.vejasuasnoticias{
+    text-align: center;
+}
+.vejasuasnoticias a input{
+    height: 40px; width: 150px;
+    font-weight: bolder;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
+.ranking-bar-chat{
+    text-align: center;
+}
+.ranking-bar-chat a input{
+    width: 100px; height: 140px;
+    border-radius: 20px;
+    border-color: white;
+    border-width:1px;
+}
+#ranking{
+    background-image: url(Ranking.jpg);
+}
+#bar{
+    background-image: url(Bar.jpg);
+}
+#chat{
+    background-image: url(Chat.jpg);
+}
+.appstore-googleplay{
+    text-align: center;
+    margin-top: 50px;
+}
+.appstore-googleplay a input{
+    width: 130px; height: 40px;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 1px;
+}
+#appstore{
+    margin-right: 20px;
+    background-image: url(AppStore.jpg);
+}
+#googleplay{
+    background-image: url(GooglePlay.jpg);
+}
+footer{
+    text-align: center;
+    padding-bottom: 50px;
+}
+footer span{
+    color: blue;
+}
